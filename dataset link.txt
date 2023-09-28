@@ -1,0 +1,11 @@
+The dataset used comprises 7,959 images containing
+ specific images from WIDER-FACE and MAFA datasets, 
+with facial annotations belonging to two classes, 
+masked faces and unmasked faces.
+        1. http://shuoyang1213.me/WIDERFACE/
+        2. https://www.kaggle.com/rahulmangalampalli
+/mafa-data
+
+After verification of wrong annotations, 
+6,120 images were used for training and 
+1,839 images were set aside for validation. 
